@@ -37,7 +37,7 @@ const Footer = () => {
             {/* Email Signup Section */}
             <div className="flex flex-col items-center md:items-end mt-8 md:mt-0">
               <h2 className="text-sm mb-4 text-center text-black md:text-left">
-                Be the first to know about our biggest and best sales. We'll never send more than one email a 
+                Be the first to know about our biggest and best sales. Well never send more than one email a 
                 <h2> month.</h2>  
               </h2>
               <form className="flex items-center w-full md:w-80 relative">
